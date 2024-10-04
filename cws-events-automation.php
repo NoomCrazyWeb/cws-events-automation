@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: CWS Events Automation
- * Plugin URI: https://www.crazywebstudio.co.th
+ * Plugin URI: https://github.com/NoomCrazyWeb/cws-events-automation
  * Description: Retrieve NinjaForms submissions and post them as Events with a Draft status.
  * Version: 1.0.3
  * Author: Crazy Web Studio
