@@ -6,7 +6,9 @@
  * Version: 1.0.3
  * Author: Crazy Web Studio
  * Author URI: https://www.crazywebstudio.co.th
- * Text Domain: crazywebstudio-events-automation
+ * Text Domain: cws-events-automation-main
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
  * Copyright 2024 Crazy Web Studio
 */
@@ -365,7 +367,7 @@ class Cws_Events_Automation {
     }
 
     private function write_error_log($error) {
-        error_log($error.'\n', 3, plugin_dir_path(__FILE__) . 'ninja_forms_log.txt');
+        error_log($error.'\n', 3, plugin_dir_path(__FILE__) . 'forms_log.txt');
     }
 }
 

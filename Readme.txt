@@ -6,9 +6,15 @@
 **Version:** 1.0.3  
 **Author:** Crazy Web Studio  
 **Author URI:** [https://www.crazywebstudio.co.th](https://www.crazywebstudio.co.th)  
-**Text Domain:** crazywebstudio-ninja-forms-submissions-events  
+**Text Domain:** cws-events-automation-main
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**Requires at least:** 5.0
+**Tested up to:** 6.6
+**Stable tag:** 1.0.3
+**Tags:** events, submissions, draft-events
+
+This version provides the key points while maintaining brevity and clarity. Let me know if you'd like further adjustments!
 
 ## Description
 
