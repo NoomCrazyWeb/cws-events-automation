@@ -55,6 +55,9 @@ A: The plugin uses standard event post types and fields, but customization is po
 ## Changelog
 
 ### 1.0.4 (Release Date)
+- Add features for php namespace and check php versions.
+
+### 1.0.4
 - Add features for check update versions.
 
 ### 1.0.3
